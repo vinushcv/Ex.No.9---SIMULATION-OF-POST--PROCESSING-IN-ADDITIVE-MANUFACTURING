@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No. 6.2 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/vinushcv/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113975318/a7b5d502-3a1b-47d7-8f26-271b8e07b8da)
+
+
+### Name:  Vinush.CV
+### Register Number:  212222230176
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
